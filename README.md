@@ -3,7 +3,7 @@
 
 <!-- === About Me === -->
 <p style="font-family:'Orbitron',sans-serif; font-size:5em; color:#FFFFFF; margin-bottom:0.2em;">
-  ✦ I am <strong>Yuvrajnag Kodithyala</strong> — a CSE student who loves building useful (and fun) things. I mess around with web dev, game dev (currently in Godot).
+  ✦ Hey, I am <strong>Yuvrajnag Kodithyala</strong> — a CSE student who loves building useful (and fun) things. I mess around with web dev, game dev (currently in Godot).
 </p>
 
 <!-- === Tech Stack === -->
