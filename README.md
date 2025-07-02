@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/CSS3-%230D1117?logo=css3&logoColor=white&style=flat" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-%230D1117?logo=javascript&logoColor=white&style=flat" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-%230D1117?logo=java&logoColor=white&style=flat" alt="Java" />
-  <img src="https://img.shields.io/badge/DSA-%230D1117?logo=algorithm&logoColor=white&style=flat" alt="DSA" />
   <img src="https://img.shields.io/badge/Python-%230D1117?logo=python&logoColor=white&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-%230D1117?logo=postgresql&logoColor=white&style=flat" alt="SQL" />
   <img src="https://img.shields.io/badge/Figma-%230D1117?logo=figma&logoColor=white&style=flat" alt="Figma" />
