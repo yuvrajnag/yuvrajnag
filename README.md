@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Python-%230D1117?logo=python&logoColor=white&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-%230D1117?logo=postgresql&logoColor=white&style=flat" alt="SQL" />
   <img src="https://img.shields.io/badge/Figma-%230D1117?logo=figma&logoColor=white&style=flat" alt="Figma" />
-  <img src="https://img.shields.io/badge/FlipaClip-%230D1117?logo=flipaClip&logoColor=white&style=flat" alt="FlipaClip" />
   <img src="https://img.shields.io/badge/Canva-%230D1117?logo=canva&logoColor=white&style=flat" alt="Canva" />
   <img src="https://img.shields.io/badge/Godot-%230D1117?logo=godot-engine&logoColor=white&style=flat" alt="Godot" />
   <img src="https://img.shields.io/badge/Unreal_Engine-%230D1117?logo=unreal-engine&logoColor=white&style=flat" alt="Unreal Engine" />
