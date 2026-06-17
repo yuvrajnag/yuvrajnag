@@ -22,7 +22,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/SQL-0D1117?logo=postgresql&logoColor=white&style=flat" />
 </p>
 
-<!-- Frontend -->
+<Frontend>
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?logo=react&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?logo=nextdotjs&logoColor=white&style=flat" />
@@ -30,7 +30,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Framer_Motion-0D1117?logo=framer&logoColor=white&style=flat" />
 </p>
 
-<!-- Backend -->
+<Backend>
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-0D1117?logo=springboot&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?logo=nodedotjs&logoColor=white&style=flat" />
@@ -40,7 +40,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Socket.IO-0D1117?logo=socketdotio&logoColor=white&style=flat" />
 </p>
 
-<!-- Databases -->
+<Databases>
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/MongoDB-0D1117?logo=mongodb&logoColor=white&style=flat" />
@@ -48,7 +48,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Redis-0D1117?logo=redis&logoColor=white&style=flat" />
 </p>
 
-<!-- Tools & Design -->
+<Tools & Design>
 <p>
   <img src="https://img.shields.io/badge/Git-0D1117?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Linux-0D1117?logo=linux&logoColor=white&style=flat" />
@@ -57,7 +57,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Framer-0D1117?logo=framer&logoColor=white&style=flat" />
 </p>
 
-<!-- Game Development -->
+<Game Development>
 <p>
   <img src="https://img.shields.io/badge/Godot-0D1117?logo=godot-engine&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Unity-0D1117?logo=unity&logoColor=white&style=flat" />
@@ -68,5 +68,5 @@ Tech Stack
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=550&lines=Building+products+and+interactive+experiences...;Exploring+system+design+and+real-time+applications...;Keep+Building...;Stay+Dope..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FFFFFF&center=true&width=550&lines=Keep+Building...;Stay+Dope..." />
 </div>
